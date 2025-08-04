@@ -4,6 +4,15 @@
 
 ---
 
+
+## 📸 Screenshots
+
+### 🔍 Chrome Extension Preview
+
+![Summarize Tab](./screenshots/research-assistant.png)
+
+---
+
 ## 🚀 Features
 
 - ✨ **AI-Powered Summarization**: Get quick summaries of web pages or selected text using Google Gemini.
@@ -22,20 +31,7 @@
 | Gemini AI API   | Summarization functionality |
 | LocalStorage    | Storing user notes          |
 
----
 
-## 📸 Screenshots
-
-### 🔍 Summarize Tab Content
-![Summarize Tab](./screenshots/summarize-tab.png)
-
-### 📄 Summarize Selected Text
-![Summarize Selection](./screenshots/summarize-selection.png)
-
-### 📝 Saved Notes
-![Saved Notes](./screenshots/saved-notes.png)
-
-> 📝 Make sure you have these images in a folder named `screenshots` inside your project root.
 
 ---
 
@@ -67,7 +63,7 @@
 ## 👩‍💻 Author
 
 **Sakshi Singh**  
-Generative AI Enthusiast | Software Developer  
+Generative AI Enthusiast | Software Developer | Java Developer 
 [LinkedIn Profile](https://www.linkedin.com/in/sakshi-amit-singh/)
 
 ---
