@@ -51,25 +51,7 @@
 
 ## 📁 Project Structure
 
-research-buddy/
-│
-├── backend/
-│   ├── .mvn/wrapper/
-│   ├── src/
-│   ├── .gitattributes
-│   ├── .gitignore
-│   ├── mvnw
-│   ├── mvnw.cmd
-│   └── pom.xml
-│
-├── frontend/
-│   ├── background.js
-│   ├── manifest.json
-│   ├── sidepanel.css
-│   ├── sidepanel.html
-│   ├── sidepanel.js
-│   └── research-assistant.png
-
+<pre> research-buddy/ │ ├── backend/ │ ├── .mvn/wrapper/ │ ├── src/ │ ├── .gitattributes │ ├── .gitignore │ ├── mvnw │ ├── mvnw.cmd │ └── pom.xml │ ├── frontend/ │ ├── background.js │ ├── manifest.json │ ├── sidepanel.css │ ├── sidepanel.html │ ├── sidepanel.js │ └── research-assistant.png </pre>
 
 
 ---
