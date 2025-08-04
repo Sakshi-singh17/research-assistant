@@ -52,17 +52,24 @@
 ## 📁 Project Structure
 
 research-buddy/
+│
 ├── backend/
-│ └── research-buddy/
-│ ├── src/ # Java Spring Boot backend source code
-│ ├── pom.xml # Maven configuration
-│ └── ... # Other Spring Boot setup files
-├── frontend/ # Chrome extension source files
-│ ├── background.js
-│ ├── manifest.json
-│ ├── sidepanel.html
-│ ├── sidepanel.css
-│ ├── sidepanel.js
+│   ├── .mvn/wrapper/
+│   ├── src/
+│   ├── .gitattributes
+│   ├── .gitignore
+│   ├── mvnw
+│   ├── mvnw.cmd
+│   └── pom.xml
+│
+├── frontend/
+│   ├── background.js
+│   ├── manifest.json
+│   ├── sidepanel.css
+│   ├── sidepanel.html
+│   ├── sidepanel.js
+│   └── research-assistant.png
+
 
 
 ---
